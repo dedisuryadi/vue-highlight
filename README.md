@@ -12,5 +12,11 @@ Simply include vue-highlight.js after vue.js and add v-highlight directive to yo
 
 check this codepen page for a demo [http://codepen.io/ded/pen/gaqJqL](http://codepen.io/ded/pen/gaqJqL)
 
+#TODO
+- ~~upload to github~~
+- implement options to modify style
+- convert to plugin
+- ...
+
 # License
 M.I.T © Dedi Suryadi

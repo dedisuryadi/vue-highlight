@@ -11,11 +11,12 @@ Simply include vue-highlight.js after vue.js and add v-highlight directive to yo
 'bar' is the value to be tracked, so when 'bar' value changed, paragraph #foo will be highlighted.
 
 check this codepen page for a demo [http://codepen.io/ded/pen/gaqJqL](http://codepen.io/ded/pen/gaqJqL)
+or here for a simple one [http://codepen.io/ded/pen/ONVBer](http://codepen.io/ded/pen/ONVBer)
 
 #TODO
 - ~~upload to github~~
 - implement options to modify style
-- convert to plugin
+- convert to a proper plugin
 - ...
 
 # License
